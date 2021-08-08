@@ -6,6 +6,8 @@ Having a few major twists this challenge is intended to not be too hard.
 |-----|------------|
 |Difficulty\:|Moderate-Hard|
 |MD5 Hash to verify the solution:|942f20d6a72fda88ce356ace3cd23807|
+|Challenge by|Taguar258|
+|Writeup author|DaFreak312|
 
 The challenge consists of an image and a text file.
 
